@@ -1,5 +1,5 @@
 # Project
-## Welcome to your starting point in the NutsDAO Developer Champions Program! 🌰🙌
+## Welcome to your starting point in the NutsDAO Developer Excitation Program! 🌰🙌
 
 This program is designed to **empower developers in the JuChain ecosystem**, unlock your creative potential, and support you in bringing wild ideas to life on-chain. As a Champion, you'll gain access to dedicated resources to **level up your skills**, participate in DAO initiatives, and co-build the future of Web3 with some of the most unconventional and driven builders in the space.
 
