@@ -28,3 +28,5 @@ Once you submit your application, the NutsDAO Kernel Council will review your su
 [👉 **Apply to be a Nuts Starter now!** 👈](https://github.com/Nuts-DAO/Project/issues)
 
 Welcome to the beginning of your builder journey—where failure is just evolution in disguise. 🎉
+
+Contect us：Nutsdao@outlook.com
