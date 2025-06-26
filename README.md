@@ -25,6 +25,6 @@ To begin your journey as a **Nuts Starter**, simply submit a new application in 
 
 Once you submit your application, the NutsDAO Kernel Council will review your submission and follow up with the next steps.
 
-👉 **Apply to be a Nuts Starter now!** 👈
+[👉 **Apply to be a Nuts Starter now!** 👈](https://github.com/Nuts-DAO/Project/issues)
 
 Welcome to the beginning of your builder journey—where failure is just evolution in disguise. 🎉
